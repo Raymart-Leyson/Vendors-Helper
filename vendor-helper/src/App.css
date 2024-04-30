@@ -1,0 +1,66 @@
+.app {
+  display: flex;
+}
+
+/* Sidebar styles */
+
+.sidebar {
+  position: flex;
+  width: max-content;
+  height: 920px;
+  background-color: #333;
+  color: white;
+  padding: 20px;
+}
+
+.sidebar-link {
+  color: white;
+  text-decoration: none;
+}
+
+.sidebar h2:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+/* Dashboard styles */
+
+.dashboard {
+  flex: 1;
+  padding: 20px;
+}
+
+.data-backup {
+  flex: 1;
+  padding: 20px;
+}
+
+.invoice-generation {
+  flex: 1;
+  padding: 20px;
+}
+
+.notification {
+  flex: 1;
+  padding: 20px;
+}
+
+.payment-integration {
+  flex: 1;
+  padding: 20px;
+}
+
+.reports {
+  flex: 1;
+  padding: 20px;
+}
+
+.search {
+  flex: 1;
+  padding: 20px;
+}
+
+.transaction {
+  flex: 1;
+  padding: 20px;
+}
