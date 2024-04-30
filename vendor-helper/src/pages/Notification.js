@@ -3,7 +3,7 @@ import React from 'react';
 const Notification = () => {
   return (
     <div className="notification">
-      <h2>Notification</h2>
+      <h2 className='title-text'>Notification</h2>
       {/* Add your dashboard content here */}
     </div>
   );

@@ -27,40 +27,86 @@
 
 .dashboard {
   flex: 1;
+  font-size: x-large;
+  text-align: center;
   padding: 20px;
+  padding-top: 0px;
 }
+
+/* Data Backup styles */
 
 .data-backup {
   flex: 1;
+  font-size: x-large;
+  text-align: center;
   padding: 20px;
+  padding-top: 0px;
 }
+
+/* Invoice Generation styles */
 
 .invoice-generation {
   flex: 1;
+  font-size: x-large;
+  text-align: center;
   padding: 20px;
+  padding-top: 0px;
 }
+
+/* Notification styles */
 
 .notification {
   flex: 1;
+  font-size: x-large;
+  text-align: center;
   padding: 20px;
+  padding-top: 0px;
 }
+
+/* Payment Integration styles */
 
 .payment-integration {
   flex: 1;
+  font-size: x-large;
+  text-align: center;
   padding: 20px;
+  padding-top: 0px;
 }
+
+/* Reports styles */
 
 .reports {
   flex: 1;
+  font-size: x-large;
+  text-align: center;
   padding: 20px;
+  padding-top: 0px;
 }
+
+/* Search and Filter styles */
 
 .search {
   flex: 1;
+  font-size: x-large;
+  text-align: center;
   padding: 20px;
+  padding-top: 0px;
 }
+
+/* Transaction styles */
 
 .transaction {
   flex: 1;
+  font-size: x-large;
+  text-align: center;
   padding: 20px;
+  padding-top: 0px;
+}
+
+.links:hover{
+  cursor: default;
+}
+
+.title-text:hover{
+  cursor:default;
 }
